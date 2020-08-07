@@ -20,4 +20,4 @@ This is my link all about my files and about me
 
 [Telegram](https://t.me/koito97)
 
-[Blogger](https://koito97.blogspot.com)
+[Blogger](https://www.koito97.my.id/)
