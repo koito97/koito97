@@ -8,7 +8,9 @@ This is my link all about my files and about me
 
 [Sourceforge](https://sourceforge.net/projects/dandyfarid)
 
-[GithubRelease](https://github.com/koito97/yuuki_yuuna_release)
+[Githubrelease](https://github.com/koito97/yuuki_yuuna_release)
+
+[Githubpages](https://koito97.github.io/)
 
 [Facebook](https://www.facebook.com/koito97)
 
@@ -16,7 +18,7 @@ This is my link all about my files and about me
 
 [Instagram](https://www.instagram.com/koito_97)
 
-[XdaProfile](https://forum.xda-developers.com/member.php?u=9414892)
+[Xdaprofile](https://forum.xda-developers.com/member.php?u=9414892)
 
 [Telegram](https://t.me/koito97)
 
