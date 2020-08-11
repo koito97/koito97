@@ -2,6 +2,8 @@
  <img src="https://github.com/koito97/koito97/blob/master/MyFotoProfile.jpg" > 
 </p>
 
+<img align="left" alt="koito97 Github Stats" src="https://github-readme-stats.vercel.app/api?username=koito97&show_icons=true&hide_border=true" />
+
 Hi i am Dandy Farid, nice to meet you :D btw wellcome to my github. Nothing specially in my git but i hope you enjoy it ;)
 
 This is my link all about my files and about me
