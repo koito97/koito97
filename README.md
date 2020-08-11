@@ -14,8 +14,6 @@ This is my link all about my files and about me
 
 [Githubpages](https://koito97.github.io/)
 
-[Facebook](https://www.facebook.com/koito97)
-
 [Twitter](https://twitter.com/koito97)
 
 [Instagram](https://www.instagram.com/koito_97)
