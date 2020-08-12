@@ -19,5 +19,3 @@ This is my link all about my files and about me
 [Xdaprofile](https://forum.xda-developers.com/member.php?u=9414892)
 
 [Telegram](https://t.me/koito97)
-
-[Blogger](https://www.koito97.my.id/)
