@@ -3,17 +3,19 @@
 </p>
 
 Hi i am Dandy Farid, nice to meet you :D btw wellcome to my github. Nothing specially in my git but i hope you enjoy it ;)
-
-This is my link all about my files and about me
-
-[Sourceforge](https://sourceforge.net/projects/dandyfarid)
-
-[Githubpages](https://koito97.github.io/)
-
-[Twitter](https://twitter.com/koito97)
-
-[Instagram](https://www.instagram.com/koito_97)
-
-[Xdaprofile](https://forum.xda-developers.com/member.php?u=9414892)
-
-[Telegram](https://t.me/koito97)
+  
+<a href="https://koito97.github.io">
+  <img align="left" alt="koito97 Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://web.telegram.org/#/koito97">
+  <img align="left" alt="koito97 Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/#/koito97">
+  <img align="left" alt="koito97 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/koito97">
+  <img align="left" alt="koito97 Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+  
+  <br/>
+<br/>
