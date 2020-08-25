@@ -7,10 +7,10 @@ Hi i am Dandy Farid, nice to meet you :D btw wellcome to my github. Nothing spec
 <a href="https://github.com/koito97">
   <img align="left" alt="koito97 Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://web.telegram.org/#/koito97">
+<a href="https://t.me/koito97">
   <img align="left" alt="koito97 Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/#/koito_97">
+<a href="https://www.instagram.com/koito_97">
   <img align="left" alt="koito97 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/koito97">
