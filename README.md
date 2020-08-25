@@ -8,8 +8,6 @@ This is my link all about my files and about me
 
 [Sourceforge](https://sourceforge.net/projects/dandyfarid)
 
-[Githubrelease](https://github.com/koito97/yuuki_yuuna_release)
-
 [Githubpages](https://koito97.github.io/)
 
 [Twitter](https://twitter.com/koito97)
