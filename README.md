@@ -4,7 +4,7 @@
 
 Hi i am Dandy Farid, nice to meet you :D btw wellcome to my github. Nothing specially in my git but i hope you enjoy it ;)
   
-<a href="https://www.koito97.net">
+<a href="https://www.koito97.com">
   <img align="left" alt="koito97 Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <a href="https://t.me/koito97">
